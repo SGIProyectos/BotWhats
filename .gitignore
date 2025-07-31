@@ -1,5 +1,6 @@
 node_modules/
-.wwebjs_cache/
 session/
+.wwebjs_cache/
 .env
-excel/
+.DS_Store
+*.log
